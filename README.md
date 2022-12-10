@@ -1,5 +1,5 @@
 # discord-bot-template
-A simple temlpate to easily get you started with creating your own bot for Discord!
+A simple template to easily get you started with creating your own bot for Discord!
 ---
 
 ## Features and technologies used
