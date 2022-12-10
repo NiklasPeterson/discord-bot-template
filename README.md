@@ -8,6 +8,7 @@ A simple template to easily get you started with creating your own bot for Disco
 - [Interactive buttons](https://discord.com/developers/docs/interactions/message-components#buttons)
 - [Discord.JS v14](https://discord.js.org/#/)
 - [Heroku](https://www.heroku.com/)
+- Supports both local and gobal commands
 
 ---
 
