@@ -11,6 +11,11 @@ A simple template to easily get you started with creating your own bot for Disco
 - Supports both local and gobal commands
 
 ---
+## Deploy using Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zMVF-L?referralCode=2v8Zry)
+
+---
 
 ## Project structure
 
