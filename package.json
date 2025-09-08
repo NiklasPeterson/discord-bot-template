@@ -22,7 +22,7 @@
   "homepage": "https://github.com/NiklasPeterson/discord-bot-template#readme",
   "dependencies": {
     "discord.js": "^14.22.1",
-    "dotenv": "^17.2.1"
+    "dotenv": "^17.2.2"
   },
   "devDependencies": {
     "eslint": "^9.34.0"
